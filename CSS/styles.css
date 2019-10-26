@@ -1,0 +1,59 @@
+.top-container {
+  background-color: #ecfcff;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 50px;
+}
+
+.first-heading{
+  line-height: 2;
+}
+
+.second-heading{
+  font-weight: normal;
+  line-height: 2;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 500px;
+  bottom: 300px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Pacifico', cursive;
+  color: #66BFBF;
+}
+
+h2{
+  font-family: 'Pacifico', cursive;
+  color: #66BFBF;
+}
+
+h3{
+  font-family: 'Pacifico', cursive;
+  color: #11999E;
+}
+
+p {
+  font-family: 'Domine', serif;
+}
